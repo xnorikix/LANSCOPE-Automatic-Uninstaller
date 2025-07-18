@@ -1,0 +1,1 @@
+# LANSCOPE-Automatic-Uninstaller
