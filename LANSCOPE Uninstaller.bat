@@ -1,0 +1,1 @@
+powershell -Command "Start-Process powershell -Verb RunAs -ArgumentList '-ExecutionPolicy Bypass -File \"C:\Program Files (x86)\MOTEX\LanScope Client\Distribution\run_uninstaller.ps1\"'"
